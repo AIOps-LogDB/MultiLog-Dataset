@@ -1,0 +1,120 @@
+start inject network_bandwidth2
+1698438681.821278
+Recover c96c85a3-81b7-4b7f-8088-f85769c1ffd3 successfully
+e3ca62cc3152   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   39 seconds ago   Up 38 seconds   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_bandwidth2
+1698438699.613701
+start inject network_bandwidth2
+1698438759.646111
+Recover 7b53bf24-3bac-42ae-af83-a3b39f0a8c54 successfully
+e3ca62cc3152   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   About a minute ago   Up About a minute   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_bandwidth2
+1698438774.15142
+start inject network_bandwidth2
+1698438834.185609
+Recover 965f895a-eb91-4e08-ba63-241ab534b331 successfully
+e3ca62cc3152   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   3 minutes ago   Up 3 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_bandwidth2
+1698438853.20415
+start inject network_bandwidth2
+1698438913.240772
+Recover 2d81f4b6-1bfe-48a6-9acc-8ff9c2271c11 successfully
+e3ca62cc3152   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   4 minutes ago   Up 4 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_bandwidth2
+1698438925.537656
+start inject network_bandwidth2
+1698438985.571594
+Recover 393ef19f-e8be-463f-a955-2abccc2f5102 successfully
+e3ca62cc3152   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   5 minutes ago   Up 5 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_bandwidth2
+1698439001.744996
+start inject network_bandwidth2
+1698439061.781554
+Recover 71f1dd7c-c024-42b9-9d02-35a764b3366e successfully
+e3ca62cc3152   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   6 minutes ago   Up 6 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_bandwidth2
+1698439072.920536
+start inject network_bandwidth2
+1698439132.949731
+Recover d84b1471-7b55-4a20-8b92-4af8cb0f6186 successfully
+e3ca62cc3152   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   8 minutes ago   Up 8 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_bandwidth2
+1698439144.162925
+start inject network_bandwidth2
+1698439204.200674
+Recover d8aaabd8-51c5-4c7a-ab9e-bc31792ef328 successfully
+e3ca62cc3152   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   9 minutes ago   Up 9 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_bandwidth2
+1698439222.497715
+start inject network_bandwidth2
+1698439282.533918
+Recover cca2da99-79b3-4849-af4b-0fef1d9a295c successfully
+e3ca62cc3152   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   10 minutes ago   Up 10 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_bandwidth2
+1698439300.96083
+start inject network_bandwidth2
+1698439360.992876
+Recover 1a217aae-b37d-4b0d-a089-dbc8eaeaaee7 successfully
+e3ca62cc3152   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   11 minutes ago   Up 11 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_bandwidth2
+1698439375.842853
+start inject network_bandwidth2
+1698439435.880753
+Recover 30d96644-5d3f-4f07-93e9-419b001a26aa successfully
+e3ca62cc3152   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   13 minutes ago   Up 13 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_bandwidth2
+1698439453.477392
+start inject network_bandwidth2
+1698439513.511059
+Recover 605376b4-2221-4233-9c5f-9ef3180566c1 successfully
+e3ca62cc3152   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   14 minutes ago   Up 14 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_bandwidth2
+1698439529.290659
+start inject network_bandwidth2
+1698439589.32301
+Recover 1e59f254-ce63-4c10-b59c-426e9337cd18 successfully
+e3ca62cc3152   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   15 minutes ago   Up 15 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_bandwidth2
+1698439605.030506
+start inject network_bandwidth2
+1698439665.066613
+Recover eeee9594-2f90-4630-9537-a985ea64d1b6 successfully
+e3ca62cc3152   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   17 minutes ago   Up 17 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_bandwidth2
+1698439683.375084
+start inject network_bandwidth2
+1698439743.415742
+Recover 36cb6af0-3ff5-4c03-967a-57df8c6a745d successfully
+e3ca62cc3152   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   18 minutes ago   Up 18 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_bandwidth2
+1698439761.219003
+start inject network_bandwidth2
+1698439821.258842
+Recover 1084d7af-434d-414f-adff-0766e602dfef successfully
+e3ca62cc3152   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   19 minutes ago   Up 19 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_bandwidth2
+1698439835.192001
+start inject network_bandwidth2
+1698439895.229709
+Recover d3ad8fcb-676a-4bdf-a829-10dd9b343dc3 successfully
+e3ca62cc3152   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   20 minutes ago   Up 20 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_bandwidth2
+1698439907.272366
+start inject network_bandwidth2
+1698439967.306826
+Recover 52040bc3-f0f7-4efd-87cb-72e9b8e09f52 successfully
+e3ca62cc3152   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   21 minutes ago   Up 21 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_bandwidth2
+1698439979.897227
+start inject network_bandwidth2
+1698440039.931967
+Recover d3c83d76-89d3-452d-8383-d0c039c0a019 successfully
+e3ca62cc3152   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   23 minutes ago   Up 23 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_bandwidth2
+1698440055.542261
+start inject network_bandwidth2
+1698440115.575958
+Recover 1a9063ae-4283-4e5c-86e7-9e938e8d98c5 successfully
+e3ca62cc3152   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   24 minutes ago   Up 24 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_bandwidth2
+1698440130.807298

@@ -1,0 +1,120 @@
+start inject full_cpu
+1698433936.820792
+Recover 62f5b7e2-d00e-4cd2-bc41-23ff2ebf1cf4 successfully
+494ece675bfb   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   33 seconds ago   Up 31 seconds   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject full_cpu
+1698433948.697844
+start inject full_cpu
+1698434008.729438
+Recover 413af00a-ed9b-471f-93a3-374b09cff9ff successfully
+494ece675bfb   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   About a minute ago   Up About a minute   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject full_cpu
+1698434024.435221
+start inject full_cpu
+1698434084.470414
+Recover 783df535-3b05-4925-9cf7-b6cd12ebbae6 successfully
+494ece675bfb   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   3 minutes ago   Up 3 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject full_cpu
+1698434103.452274
+start inject full_cpu
+1698434163.491271
+Recover 2811b71d-6154-41b1-830a-9f9fb002b163 successfully
+494ece675bfb   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   4 minutes ago   Up 4 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject full_cpu
+1698434179.30043
+start inject full_cpu
+1698434239.344284
+Recover 65690125-a9e6-4ecb-a576-7fae145a05f0 successfully
+494ece675bfb   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   5 minutes ago   Up 5 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject full_cpu
+1698434253.835904
+start inject full_cpu
+1698434313.869368
+Recover 6b5ed989-97f8-4825-87af-0c6c431c0c51 successfully
+494ece675bfb   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   6 minutes ago   Up 6 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject full_cpu
+1698434326.461208
+start inject full_cpu
+1698434386.495985
+Recover 74c523a6-cf01-433f-badb-90f2cbe1c725 successfully
+494ece675bfb   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   8 minutes ago   Up 8 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject full_cpu
+1698434400.141224
+start inject full_cpu
+1698434460.173765
+Recover 47f8cc77-b1f4-4034-b016-04241a5176bc successfully
+494ece675bfb   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   9 minutes ago   Up 9 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject full_cpu
+1698434478.828659
+start inject full_cpu
+1698434538.86191
+Recover 0f6b1bd3-b7e9-4eac-b855-b1d0102aab41 successfully
+494ece675bfb   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   10 minutes ago   Up 10 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject full_cpu
+1698434551.593724
+start inject full_cpu
+1698434611.628712
+Recover a18e6d40-2f1f-47fb-9b5d-219c5acad5f2 successfully
+494ece675bfb   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   11 minutes ago   Up 11 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject full_cpu
+1698434628.009682
+start inject full_cpu
+1698434688.04383
+Recover 24cf13b0-95be-4b37-b3ec-4d6a0533815f successfully
+494ece675bfb   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   13 minutes ago   Up 13 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject full_cpu
+1698434705.998395
+start inject full_cpu
+1698434766.031179
+Recover f4e4d93a-f390-4c2d-a80a-a5b0a7fa53a0 successfully
+494ece675bfb   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   14 minutes ago   Up 14 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject full_cpu
+1698434780.905393
+start inject full_cpu
+1698434840.938805
+Recover 4ae693c0-5953-47d0-a25f-83cbd89fa442 successfully
+494ece675bfb   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   15 minutes ago   Up 15 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject full_cpu
+1698434859.332119
+start inject full_cpu
+1698434919.36715
+Recover 693a8d82-d555-43fc-be47-02de5bcc1c68 successfully
+494ece675bfb   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   17 minutes ago   Up 17 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject full_cpu
+1698434940.160523
+start inject full_cpu
+1698435000.198949
+Recover ad2d8358-e14a-4697-8773-3c0ef3cf15fb successfully
+494ece675bfb   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   18 minutes ago   Up 18 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject full_cpu
+1698435016.408396
+start inject full_cpu
+1698435076.444745
+Recover 66c05f97-24d0-44d2-9368-635b205b0ab3 successfully
+494ece675bfb   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   19 minutes ago   Up 19 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject full_cpu
+1698435088.693762
+start inject full_cpu
+1698435148.727436
+Recover 0a185e2b-b0cf-4abd-a755-a2319c6e6e85 successfully
+494ece675bfb   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   20 minutes ago   Up 20 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject full_cpu
+1698435168.579582
+start inject full_cpu
+1698435228.619187
+Recover 4b21c81e-2f5b-48aa-996d-df42d746d42c successfully
+494ece675bfb   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   22 minutes ago   Up 22 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject full_cpu
+1698435246.242368
+start inject full_cpu
+1698435306.278895
+Recover 9cc703b9-0ef3-48ea-bfed-21015f08d56f successfully
+494ece675bfb   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   23 minutes ago   Up 23 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject full_cpu
+1698435324.895652
+start inject full_cpu
+1698435384.929546
+Recover 292f6d45-e424-4d17-81c7-bbf291111ed0 successfully
+494ece675bfb   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   24 minutes ago   Up 24 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject full_cpu
+1698435402.79932

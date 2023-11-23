@@ -1,0 +1,120 @@
+start inject export
+1700302137.908432
+Msg: The statement is executed successfully.
+89d55ae4096b   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   49 seconds ago   Up 46 seconds   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject export
+1700302160.174227
+start inject export
+1700302220.212943
+Msg: The statement is executed successfully.
+89d55ae4096b   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   2 minutes ago        Up 2 minutes        0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject export
+1700302236.924275
+start inject export
+1700302297.133858
+Msg: The statement is executed successfully.
+89d55ae4096b   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   3 minutes ago   Up 3 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject export
+1700302320.596005
+start inject export
+1700302380.826366
+Msg: The statement is executed successfully.
+89d55ae4096b   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   4 minutes ago   Up 4 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject export
+1700302402.730562
+start inject export
+1700302462.871875
+Msg: The statement is executed successfully.
+89d55ae4096b   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   6 minutes ago   Up 6 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject export
+1700302483.339378
+start inject export
+1700302543.371805
+Msg: The statement is executed successfully.
+89d55ae4096b   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   7 minutes ago   Up 7 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject export
+1700302565.22532
+start inject export
+1700302625.254321
+Msg: The statement is executed successfully.
+89d55ae4096b   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   8 minutes ago   Up 8 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject export
+1700302650.703225
+start inject export
+1700302710.960404
+Msg: The statement is executed successfully.
+89d55ae4096b   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   10 minutes ago   Up 10 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject export
+1700302730.062111
+start inject export
+1700302790.099893
+Msg: The statement is executed successfully.
+89d55ae4096b   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   11 minutes ago   Up 11 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject export
+1700302809.239792
+start inject export
+1700302869.274079
+Msg: The statement is executed successfully.
+89d55ae4096b   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   12 minutes ago   Up 12 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject export
+1700302888.890978
+start inject export
+1700302949.027774
+Msg: The statement is executed successfully.
+89d55ae4096b   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   14 minutes ago   Up 14 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject export
+1700302969.145601
+start inject export
+1700303029.182085
+Msg: The statement is executed successfully.
+89d55ae4096b   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   15 minutes ago   Up 15 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject export
+1700303051.343211
+start inject export
+1700303111.394763
+Msg: The statement is executed successfully.
+89d55ae4096b   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   17 minutes ago   Up 16 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject export
+1700303133.102692
+start inject export
+1700303193.217035
+Msg: The statement is executed successfully.
+89d55ae4096b   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   18 minutes ago   Up 18 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject export
+1700303217.28885
+start inject export
+1700303277.337562
+Msg: The statement is executed successfully.
+89d55ae4096b   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   19 minutes ago   Up 19 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject export
+1700303293.068393
+start inject export
+1700303353.147562
+Msg: The statement is executed successfully.
+89d55ae4096b   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   21 minutes ago   Up 20 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject export
+1700303371.978909
+start inject export
+1700303432.007217
+Msg: The statement is executed successfully.
+89d55ae4096b   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   22 minutes ago   Up 22 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject export
+1700303449.740905
+start inject export
+1700303509.78327
+Msg: The statement is executed successfully.
+89d55ae4096b   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   23 minutes ago   Up 23 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject export
+1700303529.830236
+start inject export
+1700303589.864082
+Msg: The statement is executed successfully.
+89d55ae4096b   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   24 minutes ago   Up 24 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject export
+1700303605.323835
+start inject export
+1700303665.386552
+Msg: The statement is executed successfully.
+89d55ae4096b   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   26 minutes ago   Up 26 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject export
+1700303687.667274

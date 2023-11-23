@@ -1,0 +1,512 @@
+start inject full_cpu 2
+1700314770.330298
+end inject full_cpu 2
+1700314781.370623
+start inject network_partition 3
+1700314841.401264
+end inject network_partition 3
+1700314853.441053
+start inject full_cpu 5
+1700314987.657002
+end inject full_cpu 5
+1700315005.69327
+start inject compaction
+1700315065.726242
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   5 minutes ago   Up 5 minutes   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700315079.381297
+start inject full_cpu 1
+1700315139.415754
+end inject full_cpu 1
+1700315151.458188
+start inject query 0
+1700315211.495475
+end inject query 0
+1700315224.534977
+start inject network_bandwidth2 2
+1700315365.649219
+end inject network_bandwidth2 2
+1700315381.686851
+start inject export
+1700315441.72066
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   11 minutes ago   Up 11 minutes   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject export
+1700315462.770051
+start inject full_memory 2
+1700315522.808886
+end inject full_memory 2
+1700315541.850151
+start inject full_cpu 2
+1700315601.883398
+end inject full_cpu 2
+1700315613.919926
+start inject compaction
+1700315673.955762
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   15 minutes ago   Up 15 minutes   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700315687.189644
+start inject compaction
+1700315747.218653
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   16 minutes ago   Up 16 minutes   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700315762.909195
+start inject flush
+1700315902.65361
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   19 minutes ago   Up 19 minutes   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject flush
+1700315918.117521
+start inject query 2
+1700315978.211822
+end inject query 2
+1700315991.248821
+start inject full_cpu 4
+1700316051.282819
+end inject full_cpu 4
+1700316065.312904
+start inject network_partition 0
+1700316125.350822
+end inject network_partition 0
+1700316142.386891
+start inject full_cpu 0
+1700316202.421153
+end inject full_cpu 0
+1700316212.45792
+start inject full_memory 4
+1700316272.491466
+end inject full_memory 4
+1700316282.530697
+start inject compaction
+1700316342.560112
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   26 minutes ago   Up 26 minutes   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700316361.264869
+start inject compaction
+1700316421.298217
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   28 minutes ago   Up 28 minutes   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700316439.476747
+start inject query 5
+1700316499.507027
+end inject query 5
+1700316510.547697
+start inject network_partition 1
+1700316570.574985
+end inject network_partition 1
+1700316582.619082
+start inject shutdown 1
+1700316642.661485
+end inject shutdown 1
+1700316655.703873
+start inject full_memory 2
+1700316715.735791
+end inject full_memory 2
+1700316732.769894
+start inject shutdown 5
+1700316792.803458
+end inject shutdown 5
+1700316806.841628
+start inject network_bandwidth2 0
+1700316866.870232
+end inject network_bandwidth2 0
+1700316881.906361
+start inject flush
+1700316941.937126
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   36 minutes ago   Up 36 minutes   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject flush
+1700316963.87617
+start inject query 4
+1700317023.911952
+end inject query 4
+1700317039.946596
+start inject io2 1
+1700317100.001909
+end inject io2 1
+1700317118.033508
+start inject flush
+1700317178.066001
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   40 minutes ago   Up 40 minutes   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject flush
+1700317197.372784
+start inject full_cpu 0
+1700317257.409407
+end inject full_cpu 0
+1700317275.445946
+start inject full_memory 0
+1700317335.48236
+end inject full_memory 0
+1700317348.521782
+start inject full_cpu 0
+1700317408.552643
+end inject full_cpu 0
+1700317419.5939
+start inject compaction
+1700317479.625097
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   45 minutes ago   Up 45 minutes   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700317495.061809
+start inject network_bandwidth2 4
+1700317555.095073
+end inject network_bandwidth2 4
+1700317566.127895
+start inject full_memory 1
+1700317699.056279
+end inject full_memory 1
+1700317713.093962
+start inject flush
+1700317773.159587
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   50 minutes ago   Up 50 minutes   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject flush
+1700317789.340805
+start inject full_memory 1
+1700317849.376143
+end inject full_memory 1
+1700317868.417285
+start inject full_cpu 4
+1700317928.451374
+end inject full_cpu 4
+1700317947.489429
+start inject query 1
+1700318007.530125
+end inject query 1
+1700318017.56608
+start inject export
+1700318077.600846
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   55 minutes ago   Up 55 minutes   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject export
+1700318090.192131
+start inject flush
+1700318150.229604
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   57 minutes ago   Up 56 minutes   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject flush
+1700318170.146198
+start inject query 2
+1700318230.183033
+end inject query 2
+1700318248.219785
+start inject query 2
+1700318308.25126
+end inject query 2
+1700318324.291835
+start inject compaction
+1700318465.762349
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   About an hour ago   Up About an hour   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700318488.54682
+start inject export
+1700318629.116693
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   About an hour ago   Up About an hour   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject export
+1700318649.978908
+start inject network_bandwidth2 2
+1700318710.01292
+end inject network_bandwidth2 2
+1700318723.052773
+start inject full_memory 4
+1700318783.085032
+end inject full_memory 4
+1700318794.124756
+start inject shutdown 4
+1700318854.156477
+end inject shutdown 4
+1700318867.194553
+start inject io2 2
+1700318927.231592
+end inject io2 2
+1700318944.265887
+start inject shutdown 3
+1700319004.300628
+end inject shutdown 3
+1700319020.34137
+start inject export
+1700319080.445169
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   About an hour ago   Up About an hour   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject export
+1700319096.138116
+start inject network_bandwidth2 0
+1700319156.170444
+end inject network_bandwidth2 0
+1700319168.20842
+start inject full_memory 0
+1700319228.244862
+end inject full_memory 0
+1700319245.276318
+start inject network_partition 0
+1700319305.303265
+end inject network_partition 0
+1700319317.343192
+start inject network_bandwidth2 3
+1700319377.372141
+end inject network_bandwidth2 3
+1700319387.414526
+start inject flush
+1700319447.453269
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   About an hour ago   Up About an hour   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject flush
+1700319468.44273
+start inject query 0
+1700319608.465403
+end inject query 0
+1700319626.506596
+start inject flush
+1700319686.54368
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   About an hour ago   Up About an hour   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject flush
+1700319705.169998
+start inject flush
+1700319765.241214
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   About an hour ago   Up About an hour   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject flush
+1700319785.364965
+start inject full_cpu 0
+1700319925.794502
+end inject full_cpu 0
+1700319939.834584
+start inject compaction
+1700319999.870022
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   About an hour ago   Up About an hour   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700320019.796431
+start inject export
+1700320079.830676
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   About an hour ago   Up About an hour   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject export
+1700320097.516961
+start inject query 0
+1700320157.555719
+end inject query 0
+1700320171.598251
+start inject full_cpu 2
+1700320231.631577
+end inject full_cpu 2
+1700320243.66672
+start inject network_bandwidth2 2
+1700320303.695211
+end inject network_bandwidth2 2
+1700320314.726605
+start inject compaction
+1700320374.763007
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   2 hours ago   Up 2 hours   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700320399.821678
+start inject io2 2
+1700320459.858327
+end inject io2 2
+1700320478.891587
+start inject full_memory 2
+1700320538.924415
+end inject full_memory 2
+1700320557.02585
+start inject export
+1700320617.068361
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   2 hours ago   Up 2 hours   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject export
+1700320633.369543
+start inject network_partition 2
+1700320693.417864
+end inject network_partition 2
+1700320711.448405
+start inject compaction
+1700320771.507809
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   2 hours ago   Up 2 hours   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700320794.035326
+start inject full_memory 1
+1700320854.072927
+end inject full_memory 1
+1700320866.112551
+start inject io2 3
+1700320926.150103
+end inject io2 3
+1700320938.179983
+start inject export
+1700320998.212629
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   2 hours ago   Up 2 hours   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject export
+1700321019.289049
+start inject io2 0
+1700321079.324007
+end inject io2 0
+1700321091.362307
+start inject compaction
+1700321229.196177
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   2 hours ago   Up 2 hours   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700321249.009499
+start inject full_cpu 0
+1700321309.04434
+end inject full_cpu 0
+1700321323.08128
+start inject network_partition 2
+1700321383.136208
+end inject network_partition 2
+1700321395.176301
+start inject compaction
+1700321455.222804
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   2 hours ago   Up 2 hours   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700321476.201493
+start inject compaction
+1700321536.256309
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   2 hours ago   Up 2 hours   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700321554.081136
+start inject network_partition 0
+1700321614.11379
+end inject network_partition 0
+1700321625.155778
+start inject query 0
+1700321685.190433
+end inject query 0
+1700321699.230943
+start inject shutdown 0
+1700321759.265207
+end inject shutdown 0
+1700321776.307434
+start inject network_partition 4
+1700321836.338741
+end inject network_partition 4
+1700321855.3814
+start inject shutdown 4
+1700321915.414263
+end inject shutdown 4
+1700321930.455152
+start inject full_memory 4
+1700321990.495429
+end inject full_memory 4
+1700322006.539614
+start inject full_memory 4
+1700322066.581221
+end inject full_memory 4
+1700322077.619093
+start inject compaction
+1700322137.651455
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+12a11fd9b7b4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   2 hours ago   Up 2 hours   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700322151.542745
+start inject network_bandwidth2 4
+1700322211.57419
+end inject network_bandwidth2 4
+1700322229.614178
+start inject full_cpu 2
+1700322289.642842
+end inject full_cpu 2
+1700322308.701529
+start inject query 3
+1700322368.737475
+end inject query 3
+1700322383.830934
+start inject full_memory 3
+1700322443.864352
+end inject full_memory 3
+1700322456.901242
+start inject full_cpu 0
+1700322517.118049
+end inject full_cpu 0
+1700322530.174794
+start inject shutdown 4
+1700322590.212465
+end inject shutdown 4
+1700322607.253068
+start inject query 5
+1700322667.291744
+end inject query 5
+1700322682.334328
+start inject full_memory 3
+1700322742.376346
+end inject full_memory 3
+1700322760.416364
+start inject full_memory 4
+1700322820.457951
+end inject full_memory 4
+1700322838.539646
+start inject query 3
+1700322898.572964
+end inject query 3
+1700322910.617722
+start inject network_partition 2
+1700322970.681807
+end inject network_partition 2
+1700322983.720834
+start inject full_memory 4
+1700323043.756357
+end inject full_memory 4
+1700323059.794486
+start inject network_partition 5
+1700323119.830582
+end inject network_partition 5
+1700323132.870062
+start inject query 4
+1700323192.903651
+end inject query 4
+1700323203.943334
+start inject shutdown 1
+1700323263.977773
+end inject shutdown 1
+1700323282.015272
+start inject query 2
+1700323342.049665
+end inject query 2
+1700323355.08997
+start inject query 5
+1700323415.121675
+end inject query 5
+1700323428.159792
+start inject io2 2
+1700323488.197263
+end inject io2 2
+1700323504.235702
+start inject network_bandwidth2 2
+1700323792.599428
+end inject network_bandwidth2 2
+1700323802.636331

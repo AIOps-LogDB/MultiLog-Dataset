@@ -1,0 +1,140 @@
+start inject flush
+1700298818.36644
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+57a3ef534d22   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   44 seconds ago   Up 42 seconds   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject flush
+1700298836.859922
+start inject flush
+1700298896.893855
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+57a3ef534d22   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   2 minutes ago   Up 2 minutes        0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject flush
+1700298921.163036
+start inject flush
+1700298981.197219
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+57a3ef534d22   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   3 minutes ago   Up 3 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject flush
+1700299002.852031
+start inject flush
+1700299063.039459
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+57a3ef534d22   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   4 minutes ago   Up 4 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject flush
+1700299085.834064
+start inject flush
+1700299145.873127
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+57a3ef534d22   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   6 minutes ago   Up 6 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject flush
+1700299161.470508
+start inject flush
+1700299221.668729
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+57a3ef534d22   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   7 minutes ago   Up 7 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject flush
+1700299245.297505
+start inject flush
+1700299305.390361
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+57a3ef534d22   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   8 minutes ago   Up 8 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject flush
+1700299330.541643
+start inject flush
+1700299390.591419
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+57a3ef534d22   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   10 minutes ago   Up 10 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject flush
+1700299414.901979
+start inject flush
+1700299474.937004
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+57a3ef534d22   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   11 minutes ago   Up 11 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject flush
+1700299496.789387
+start inject flush
+1700299556.890154
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+57a3ef534d22   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   13 minutes ago   Up 13 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject flush
+1700299576.258068
+start inject flush
+1700299636.410363
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+57a3ef534d22   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   14 minutes ago   Up 14 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject flush
+1700299661.592989
+start inject flush
+1700299721.623786
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+57a3ef534d22   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   15 minutes ago   Up 15 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject flush
+1700299739.324518
+start inject flush
+1700299799.495078
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+57a3ef534d22   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   17 minutes ago   Up 17 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject flush
+1700299816.605084
+start inject flush
+1700299876.640193
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+57a3ef534d22   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   18 minutes ago   Up 18 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject flush
+1700299894.233326
+start inject flush
+1700299954.267671
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+57a3ef534d22   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   19 minutes ago   Up 19 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject flush
+1700299978.515484
+start inject flush
+1700300038.714126
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+57a3ef534d22   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   21 minutes ago   Up 21 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject flush
+1700300064.889804
+start inject flush
+1700300124.923213
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+57a3ef534d22   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   22 minutes ago   Up 22 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject flush
+1700300140.738184
+start inject flush
+1700300200.77319
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+57a3ef534d22   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   23 minutes ago   Up 23 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject flush
+1700300220.985546
+start inject flush
+1700300281.019309
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+57a3ef534d22   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   25 minutes ago   Up 25 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject flush
+1700300301.943213
+start inject flush
+1700300362.606116
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+57a3ef534d22   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   26 minutes ago   Up 26 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject flush
+1700300383.236836

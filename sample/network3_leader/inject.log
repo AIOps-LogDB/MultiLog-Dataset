@@ -1,0 +1,300 @@
+start inject network_partition
+1698440226.306277
+Recover 4b59db7a-a8e9-47f8-9a44-8eda110c3ea8 successfully
+Recover 9d734496-4469-4d74-9439-5d8f23bfd05c successfully
+Recover a643b602-3a06-4809-b46c-117a68f7e02b successfully
+Recover e7674dab-96fb-45fc-9893-167d2940cb40 successfully
+Recover 2aa841fe-4530-4e56-83e2-597702f148e7 successfully
+Recover c6722912-c37c-4956-ad8b-3b9d927a3b96 successfully
+Recover 1b0fc066-ccc7-4ee4-9512-a9038216ae94 successfully
+Recover 3a746b4c-73b7-45ac-a289-bfd275761a52 successfully
+Recover 3c293dd3-7792-438d-a563-abf598249071 successfully
+Recover c3d6d6f1-0774-4df8-a81a-59c183ff7897 successfully
+796b24a174a4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   44 seconds ago   Up 42 seconds   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_partition
+1698440248.364538
+start inject network_partition
+1698440308.397321
+Recover eed139b6-8a8f-42cf-a459-a7a6b7803229 successfully
+Recover 28ab8426-2ca4-49c5-900c-f625ae430868 successfully
+Recover b743e931-4892-4eef-b043-9927307c7db9 successfully
+Recover 468d9dee-1f08-44da-ae04-c99f09544681 successfully
+Recover 8eee8cc4-ff5d-4fd2-ab19-585e30de5be1 successfully
+Recover a1121cf1-9b1e-4b7a-88b3-3f6d2b33b392 successfully
+Recover b7fd3bd3-5060-4a5a-9a9c-a1fea166812b successfully
+Recover e803a2ca-e0c1-4c88-9e92-16ed14872e8a successfully
+Recover 07e6bfcf-7580-482b-b519-fa09254d1673 successfully
+Recover 8adc812d-eb88-4c1e-a344-b3fa7a52d918 successfully
+796b24a174a4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   About a minute ago   Up About a minute   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_partition
+1698440323.520088
+start inject network_partition
+1698440383.554835
+Recover 89d65e5f-4101-45f9-95fc-c72f7e5f4be2 successfully
+Recover 5fe23992-ca1f-49c8-b45f-d4e974bfd247 successfully
+Recover f6e47d8c-6f68-42e4-a3d2-1f0c6da3b384 successfully
+Recover 683f0d11-64a7-4cff-aca8-50f50976824b successfully
+Recover 06998ee0-241e-43a4-baa2-17ea82c5d716 successfully
+Recover 9b42b98f-d0df-459c-aa2d-fc91ece3ba20 successfully
+Recover 1cb9a4e3-e383-4689-a46a-e976e1a0b21a successfully
+Recover 331d45bb-952d-487b-9e6d-300f3e74b9de successfully
+Recover 98d0eece-3a58-4df5-96f0-6b6e2f725d59 successfully
+Recover a6df0055-6884-4f6b-9d2b-8913e2ab713f successfully
+796b24a174a4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   3 minutes ago   Up 3 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_partition
+1698440400.26647
+start inject network_partition
+1698440460.301957
+Recover 38333bda-eb7e-4fc6-9425-f0c173b3b1b7 successfully
+Recover 8e7f6403-dccf-42e6-8cf5-50309d6d9349 successfully
+Recover 635a1e51-4cb7-4d83-8af3-888d0ae96f59 successfully
+Recover 61df7fa9-f831-46a6-9f60-bc4f96ec8428 successfully
+Recover 807a253d-0ee4-474e-a57b-a739c2a9b91d successfully
+Recover 2851c809-96d0-4591-a98e-8b7909e6955f successfully
+Recover 2248ac84-fa58-40ad-9e14-846d8fefeecb successfully
+Recover 8b92dad7-100d-4db3-a832-f57bccc4497e successfully
+Recover f4afa327-ed0b-424e-8cbc-b49466fe15b4 successfully
+Recover da898d41-1bd1-4a4e-bd17-a7d9b37b3ac4 successfully
+796b24a174a4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   4 minutes ago   Up 4 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_partition
+1698440479.885516
+start inject network_partition
+1698440539.917608
+Recover a7e75ee9-f4fe-47e7-95db-eb30b175036f successfully
+Recover 390c9624-7f13-47e0-947e-91f36227b4dc successfully
+Recover da28ef04-78d4-438d-8e0c-a88dba3d7354 successfully
+Recover eb463035-cd99-4887-8ebc-bfd01cd527c2 successfully
+Recover 6664f12b-0eea-4563-914f-db85e5583790 successfully
+Recover 55a8bd15-0a6e-4a76-8434-5374d5a1e662 successfully
+Recover 7f35887e-3404-4843-8a9b-682f284a9473 successfully
+Recover f1b9bdb0-59c4-4205-8f9c-c6bb2877e316 successfully
+Recover ff92e498-0489-4f3e-b26d-4e0da14074d9 successfully
+Recover a8081aec-d6e8-4bab-8f46-59e5c85a3152 successfully
+796b24a174a4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   5 minutes ago   Up 5 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_partition
+1698440559.877848
+start inject network_partition
+1698440619.910247
+Recover f802d62a-e039-4388-b31a-5f51f4a6dd18 successfully
+Recover 0361fd63-cf23-49d2-96df-e64ad7998473 successfully
+Recover 46bb46d0-f221-4cec-87da-98e33729d0a0 successfully
+Recover f9553237-ce08-4266-93ff-e987bf2e5d7b successfully
+Recover 8df72ffe-c2d7-4b8a-b586-9460a648d77b successfully
+Recover 23fb15c7-c2c1-4041-bcf6-d0acd5597d9c successfully
+Recover ae25a247-8702-452f-ab4b-65d3ed8f0b9e successfully
+Recover 1705ad3b-b164-43f6-ae37-010ff0f2f60c successfully
+Recover f099a5d1-8edf-49e4-b69f-e6a3c602d2d6 successfully
+Recover 7ba6795b-1f14-41ef-9b55-88dc2ab21076 successfully
+796b24a174a4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   7 minutes ago   Up 7 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_partition
+1698440640.846282
+start inject network_partition
+1698440700.87925
+Recover 5fd9f4e1-516a-42f4-ac7c-b446aa96c499 successfully
+Recover 27af5854-c575-459e-9def-5ce9c25e9d5f successfully
+Recover e2dd0ca9-633b-48d9-978b-84c234069c91 successfully
+Recover abec5d61-74bb-46fc-a1a8-2705d689de13 successfully
+Recover f0b291b0-418d-4764-9fbf-92d252de2402 successfully
+Recover 0bbbf0e8-ee84-463c-9cf0-0ae204880a33 successfully
+Recover 347bbb78-ec21-4826-90c9-2f777696d71e successfully
+Recover d9477dc5-c8b7-4bb1-a36c-5d3db6368179 successfully
+Recover 49d010fc-fe5e-45de-94f0-a85dd2594c41 successfully
+Recover 58bdbf27-f745-4ce9-a711-6af69c7f04e1 successfully
+796b24a174a4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   8 minutes ago   Up 8 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_partition
+1698440726.127269
+start inject network_partition
+1698440786.159556
+Recover 9ec86511-b7e0-4ad4-a128-10cd8283f831 successfully
+Recover de74b55c-7e64-434c-afd7-6a9f0248e25c successfully
+Recover 3abd1c2a-3f20-4d78-a3cd-1d616db58b8a successfully
+Recover 6365c15d-27ce-4e05-b22e-20e189fbeec9 successfully
+Recover 85f9d5dc-89e0-46cf-9a67-91aeea6df3fe successfully
+Recover c96bfc52-80ac-441e-9d1c-63da460dfe11 successfully
+Recover 4bedfac0-bb92-4db3-89fc-2629a1353242 successfully
+Recover 61a2ce17-cdd1-4669-9fd2-a32fd009667a successfully
+Recover bae11b97-2a78-4338-af8a-ffecef56a18a successfully
+Recover 9fb716c0-f151-4441-9d19-c188661cb441 successfully
+796b24a174a4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   10 minutes ago   Up 10 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_partition
+1698440813.960016
+start inject network_partition
+1698440873.992605
+Recover 746a0293-fc4b-4348-9161-92d5f3433415 successfully
+Recover 9c2eb68f-5b23-40fb-a7b9-5a118e418a73 successfully
+Recover 22ce52d8-2236-4d8f-a072-9f1907f13149 successfully
+Recover 94e594a7-d166-4d06-abdb-aa57fdb28640 successfully
+Recover 52ec4d39-29fb-4d9c-b5c6-35c0a7dee4e2 successfully
+Recover fc21dd56-9a48-4ef2-a5a3-a84cc3378a0a successfully
+Recover 9f75f4c8-ab2d-4db5-9b4c-f256c36094bd successfully
+Recover cf6ce25c-0414-4a04-b64a-537ec20c0c1f successfully
+Recover 233b6e82-b96e-440b-8dd8-3ac9c8442fe2 successfully
+Recover 0ecf6f50-354a-4ca3-9af4-bb5d8975169a successfully
+796b24a174a4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   11 minutes ago   Up 11 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_partition
+1698440899.373846
+start inject network_partition
+1698440959.407668
+Recover 0b5a10c8-ac12-4de9-af8b-d1409186c153 successfully
+Recover fcfc911c-2bc4-4791-8f06-4298d9842623 successfully
+Recover 0dedc438-6c4e-4f5b-8bbb-375f1239dcce successfully
+Recover 2dfa23e8-cca6-438e-ae79-3a7487448448 successfully
+Recover 6ab87394-f8f8-4a66-a8d7-d118ffb90ab1 successfully
+Recover 6ee8d734-5f0b-45da-98a1-09cfd91ea12f successfully
+Recover 6cb3dd76-3e13-4cef-833f-65e9f1403da5 successfully
+Recover 06e408d8-8df3-4a98-9771-894dcfb073b9 successfully
+Recover b8dc1a64-3489-4e85-89cb-fc630556d835 successfully
+Recover c9b6be19-31d7-4cb5-a292-6743ae1e17f8 successfully
+796b24a174a4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   13 minutes ago   Up 12 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_partition
+1698440985.684504
+start inject network_partition
+1698441045.71935
+Recover 122aa238-0b4b-4d44-905f-176aa152ced5 successfully
+Recover 4e4216a1-77ec-480e-a57f-b63b13719c35 successfully
+Recover 5e508bff-5f8b-4f18-be3f-480563e35a1a successfully
+Recover f72be1e2-533b-4d57-8986-8c45f9e6305a successfully
+Recover 9bad073c-0188-4224-bb46-c83ebce14670 successfully
+Recover 544a40d8-f178-4193-b762-3ec1503c7790 successfully
+Recover d48918c0-a4ca-45d4-bee6-315a552dba5e successfully
+Recover 8121cd19-131d-48d3-9226-833ea12f8f7a successfully
+Recover ab9b0fc4-a082-45e4-b95a-13b0085755ff successfully
+Recover 4537e419-c296-4579-84a6-2728f5e4dcfe successfully
+796b24a174a4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   14 minutes ago   Up 14 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_partition
+1698441070.770756
+start inject network_partition
+1698441130.805592
+Recover 0e7ab802-ac37-440a-9dbb-cdff12d56184 successfully
+Recover 40cade8f-8f65-4f37-a3ef-79715e7467d9 successfully
+Recover c3f441be-6862-4a34-851d-3bc423d48d6e successfully
+Recover 3e44bd60-0b07-4e16-b5cb-dd2175848332 successfully
+Recover 2583ca08-7a94-42da-941e-089db18936b7 successfully
+Recover 3117e352-6d15-42f5-8aca-8cc955ce99c2 successfully
+Recover 57d2030d-268f-4640-adfc-18e677ea6b7e successfully
+Recover 45176698-8e26-44e4-9a4e-93f24da5220f successfully
+Recover 97415ad1-ebc3-4d4e-a2fc-ee88c8656653 successfully
+Recover 376d7476-3b76-4786-8f0a-dd43e9aa5f73 successfully
+796b24a174a4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   15 minutes ago   Up 15 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_partition
+1698441159.682465
+start inject network_partition
+1698441219.716816
+Recover 72f0648a-8376-4114-860e-f026650e460e successfully
+Recover 57f39823-9eb0-4b12-bfec-9a3b9e07265e successfully
+Recover feceaba1-9701-4742-9dda-d364deeae85c successfully
+Recover ea26c014-920e-46db-8554-87b4b61d2740 successfully
+Recover c45f021a-6c69-4650-8599-f47385a85276 successfully
+Recover 54bb9609-6660-4e23-a6b1-a768baf70339 successfully
+Recover f53c34c5-92c6-4a9b-bdc7-890f0876e816 successfully
+Recover edbf8b67-390d-4b06-a5c2-4cfd9490d398 successfully
+Recover c3f74f21-82df-4933-9c7a-339a0362b3c3 successfully
+Recover 00544f2f-3335-4c73-80e4-a75ae72474a4 successfully
+796b24a174a4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   17 minutes ago   Up 17 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_partition
+1698441251.780397
+start inject network_partition
+1698441311.816014
+Recover 608edaee-1727-4de7-b939-3ad141c67801 successfully
+Recover 53315ff7-bb1c-493e-ad4e-bfe3ca075652 successfully
+Recover ba9790b2-a65e-434b-a955-6eb44411a61b successfully
+Recover b3bf07dc-b6c2-4283-b483-9535263ed338 successfully
+Recover d46c577c-efd2-4d12-a836-c1a9c42a81c3 successfully
+Recover 2981958f-ad9d-4c4d-b548-d2ad8e09778a successfully
+Recover e3974570-682f-46d2-bdda-624e8d8609a0 successfully
+Recover 3e3e6c54-f967-4551-9143-aad77699fcb7 successfully
+Recover 608d0e0b-8ebc-4fe7-b9a2-5baa1cdfa884 successfully
+Recover db3d2a4f-27d2-4f3d-a8da-a7655255eb51 successfully
+796b24a174a4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   18 minutes ago   Up 18 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_partition
+1698441340.288573
+start inject network_partition
+1698441400.324546
+Recover ea832a21-e124-4375-8b8b-4b6c49390103 successfully
+Recover 005e276d-5eca-4bde-92e0-952f260c6126 successfully
+Recover bee28405-1330-4028-946e-9243f5b6799e successfully
+Recover 590b6d76-d620-49a1-97fc-19cc5ea5a3b6 successfully
+Recover dcc50b2a-b23a-442e-98ce-90d87fefa268 successfully
+Recover eeaf3f55-a691-4b40-ba6f-843071a6b5c8 successfully
+Recover a89a4284-8b97-4237-8bce-f64594986924 successfully
+Recover 04b8b880-c128-4386-b47f-ea3a802069e1 successfully
+Recover b0135058-14f3-493f-acb1-84ca85fb0ca8 successfully
+Recover 1d84f81c-a2ff-4364-aee2-903625bd5bc1 successfully
+796b24a174a4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   20 minutes ago   Up 20 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_partition
+1698441430.755317
+start inject network_partition
+1698441490.791139
+Recover 25cf5a26-19f1-406a-9663-166620d46674 successfully
+Recover d5617484-f6ff-48ad-9a01-fb565ec3db52 successfully
+Recover d82a6829-07f0-4fb6-aef3-ba2302d66ec6 successfully
+Recover f2519360-c826-46c5-acc5-8887bac23f4e successfully
+Recover 3f50f3dc-58b0-41f1-b319-eda1a79f477a successfully
+Recover 0826ada4-9e6f-4a62-a228-ddb85fd319f6 successfully
+Recover 9c861cbb-b89d-4520-9ff3-4266b234a179 successfully
+Recover e49d7874-fd4d-40cf-ab00-79c55a9aa8bf successfully
+Recover 9ada7492-7a8f-4ead-b322-78beaf8324f5 successfully
+Recover d3cccbf3-54b5-4b95-897f-1e70a8dacd53 successfully
+796b24a174a4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   22 minutes ago   Up 21 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_partition
+1698441525.344157
+start inject network_partition
+1698441585.379776
+Recover 5be27c17-66a5-4fa0-a4a3-f62dfe935872 successfully
+Recover fd2a5437-7fa8-4a0e-8d11-5a58ec5aed5e successfully
+Recover 7caf0020-b32a-4517-a2a6-c1a746bb6164 successfully
+Recover f6a1119b-2892-4b66-89cc-ae3730820060 successfully
+Recover 97f7872a-8929-4712-98eb-285048f43ee5 successfully
+Recover cd27f108-99a0-4616-94af-26cf81eb5ff8 successfully
+Recover 706b11fe-6e85-4abb-9e79-e9ef9cb8364d successfully
+Recover 4cd458c7-3573-4e84-b892-4bc1f76cb803 successfully
+Recover b2a847c2-0bcf-4d4f-a038-f0fd750b7172 successfully
+Recover d33ac74e-c17e-4bb2-ac36-76f1191a3adb successfully
+796b24a174a4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   23 minutes ago   Up 23 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_partition
+1698441617.974098
+start inject network_partition
+1698441678.008568
+Recover 3fff1229-90f4-4d51-91e1-49d084ccea41 successfully
+Recover 0ebe44cb-370d-4a79-8145-127c79321a93 successfully
+Recover e68e7459-0612-4388-ba7f-7939e0b905ce successfully
+Recover 7c756401-65d2-47eb-ad0b-93689f93f151 successfully
+Recover 4baa21af-230e-437d-9428-c65a64184684 successfully
+Recover b29e42d3-514d-4f2c-ad4f-0427453b24d4 successfully
+Recover 3b665b7f-093b-4f0e-9196-b065a9a22e66 successfully
+Recover 95a0a27b-c105-412e-b061-fb5c0173725f successfully
+Recover 66bb780d-57f3-410e-982d-6e868a41cb5b successfully
+Recover 7b33aa0d-59ce-4aaa-a6f7-1b63dbeab7fb successfully
+796b24a174a4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   25 minutes ago   Up 25 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_partition
+1698441712.130087
+start inject network_partition
+1698441772.168615
+Recover d593b41d-6a86-4788-bede-3105145057d4 successfully
+Recover 0d6d20d9-264e-452e-a585-0cafe1f77919 successfully
+Recover a655635c-87d1-45fb-8337-3d71d68bac99 successfully
+Recover 6d7033a7-2fd9-4f5f-8e39-d950ee7f6c07 successfully
+Recover 7fa2b9db-f666-4d47-a366-99feb1da2d5e successfully
+Recover d93408db-9026-4034-8ad0-8b8b8b04c45f successfully
+Recover 8de202e5-b3f9-498d-88db-ff2229d3acbf successfully
+Recover a0dc222b-2465-42ea-a6ac-f66e6cc06f83 successfully
+Recover 6ea628f9-6264-46ec-8319-a3b4daeec198 successfully
+Recover 303e46f6-cfca-4a64-96b9-66a9b9d0a351 successfully
+796b24a174a4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   26 minutes ago   Up 26 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_partition
+1698441799.489787
+start inject network_partition
+1698441859.52485
+Recover a5fbf790-f8a6-4e52-a14f-ede99f442b84 successfully
+Recover e2577e90-a849-4031-8b4c-91d937c216a9 successfully
+Recover 530226c9-4e94-4ddb-b9d9-82a68c33f307 successfully
+Recover 7946f548-999f-4812-bcec-0d2311fcc867 successfully
+Recover 41840ec3-c119-488b-b16e-581dd269e736 successfully
+Recover a1a9c82a-efb8-41c0-b23a-97d1402afe19 successfully
+Recover 17de85b3-f1d2-4401-8281-a2ce97633811 successfully
+Recover d5eb4a4c-9f56-48bd-8b79-311262bf219d successfully
+Recover c3ebd7f3-a2c8-4fea-a698-686e14e9ca3c successfully
+Recover d09a458b-8b07-4a95-89e3-ceb4b06c6231 successfully
+796b24a174a4   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   28 minutes ago   Up 28 minutes   0.0.0.0:6667->6667/tcp, :::6667->6667/tcp, 0.0.0.0:10710->10710/tcp, :::10710->10710/tcp, 0.0.0.0:10720->10720/tcp, :::10720->10720/tcp, 0.0.0.0:10730->10730/tcp, :::10730->10730/tcp, 0.0.0.0:10740->10740/tcp, :::10740->10740/tcp, 0.0.0.0:10750->10750/tcp, :::10750->10750/tcp, 0.0.0.0:10760->10760/tcp, :::10760->10760/tcp   iotdb0
+end inject network_partition
+1698441897.338294

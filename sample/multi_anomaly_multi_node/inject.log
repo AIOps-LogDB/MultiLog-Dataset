@@ -1,0 +1,820 @@
+start inject network_bandwidth2
+1700323899.208436
+Recover de5c5e4b-9878-4b06-94e8-2964006b54da successfully
+Msg: The statement is executed successfully.
+1aa8f399bae1   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   32 seconds ago   Up 30 seconds   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject network_bandwidth2
+1700323912.480243
+start inject compaction
+1700323972.512583
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+1aa8f399bae1   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   About a minute ago   Up About a minute   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700323985.365862
+start inject full_memory
+1700324045.404321
+17179869184
+3751653933
+13428215251
+[2023/11/18 16:14:45.672 +00:00] [WARN] [stress.go:122] ["Failed to get process"] [error="process does not exist"]
+Recover 04ffb65c-2b93-463a-bbc0-53ab3507e9bd successfully
+Msg: The statement is executed successfully.
+1aa8f399bae1   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   3 minutes ago   Up 3 minutes   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject full_memory
+1700324087.378236
+start inject full_memory
+1700324147.414272
+17179869184
+4903778910
+12276090274
+Recover acdb6060-dd46-489f-b609-ee21d1ab528f successfully
+Msg: The statement is executed successfully.
+1aa8f399bae1   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   4 minutes ago   Up 4 minutes   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject full_memory
+1700324169.365819
+start inject network_partition
+1700324229.402221
+Recover 60ef6c68-8678-4b51-a2ea-51935632707d successfully
+Recover 3848214a-8861-4092-af4c-d86389b33a93 successfully
+Recover 83812b4a-e3fb-4172-88b3-5934ec41b1ab successfully
+Recover c8ae978e-e268-42ca-ac5e-1fcf31cc8e17 successfully
+Recover bab869c2-9638-4f9d-b68a-a632287dfb55 successfully
+Recover 3e9c5c3a-459b-4be9-8ce9-3b37f3c6ac8a successfully
+Recover 77ef731c-585c-472d-a618-7d245c3398d1 successfully
+Recover 58352647-0dde-4f5c-8f16-0b10be0a9557 successfully
+Recover 53521ae6-a704-4b47-bd5d-14ce8b018a74 successfully
+Recover 83a82f05-63ae-42ef-aec9-bed5a8429317 successfully
+Msg: The statement is executed successfully.
+1aa8f399bae1   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   6 minutes ago   Up 6 minutes   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject network_partition
+1700324245.459873
+start inject shutdown
+1700324305.493965
+iotdb3
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+7ba75c9eb53df261ee4e9e0c970f115922bd94bedc64d542c266041999c2074c
+end inject shutdown
+1700324325.829329
+start inject full_cpu
+1700324385.863674
+Recover 158ee9db-cb7d-490b-ba70-90c938d41bcd successfully
+Msg: The statement is executed successfully.
+7ba75c9eb53d   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   About a minute ago   Up About a minute   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject full_cpu
+1700324399.014453
+start inject compaction
+1700324459.047155
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+7ba75c9eb53d   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   2 minutes ago   Up 2 minutes   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700324472.948336
+start inject shutdown
+1700324532.978404
+iotdb3
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+bdaa6f35eb765940477b9d0128e8717510baa2fe8fd54b7ea4dc1ce259653012
+end inject shutdown
+1700324555.81404
+start inject network_bandwidth2
+1700324688.663447
+Recover 60de47b1-a4c3-4642-92a6-fe7e52eea051 successfully
+Msg: The statement is executed successfully.
+bdaa6f35eb76   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   2 minutes ago    Up 2 minutes    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject network_bandwidth2
+1700324701.589523
+start inject full_memory
+1700324761.621323
+17179869184
+10209137263
+6970731921
+Recover adb579ca-c90e-4b74-b0a5-e7f0c9c77053 successfully
+Msg: The statement is executed successfully.
+bdaa6f35eb76   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   3 minutes ago    Up 3 minutes    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject full_memory
+1700324779.659943
+start inject network_partition
+1700324839.693689
+Recover 2fa23574-c45b-4018-97b4-e107fbe8c06e successfully
+Recover 6c776d2d-01ae-48c3-b4e7-5ced678f700d successfully
+Recover 658bf03c-c93b-4b2f-806d-cf2263886184 successfully
+Recover 99d74f88-6e9c-4d7d-8de1-61e33ece7510 successfully
+Recover 6ec8a27f-fa80-49d7-9ed7-0184bbd5f331 successfully
+Recover 4262a174-483b-4e18-a8ae-e7af8735a319 successfully
+Recover 217684f1-c1c8-4878-a940-af90be1115d4 successfully
+Recover 5810a56f-4b64-4eca-8477-44767b563b86 successfully
+Recover ee527b39-fc26-4d10-aefb-7cb578abf06e successfully
+Recover 7c50f687-399b-4e8a-998e-7ce86f10ea1c successfully
+Msg: The statement is executed successfully.
+bdaa6f35eb76   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   5 minutes ago    Up 5 minutes    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject network_partition
+1700324860.215414
+start inject flush
+1700324920.251554
+Msg: The statement is executed successfully.
+Msg: The statement is executed successfully.
+bdaa6f35eb76   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   6 minutes ago    Up 6 minutes    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject flush
+1700324933.933398
+start inject full_memory
+1700324993.965956
+17179869184
+11864847155
+5315022029
+Recover ec3fefb0-79c8-4723-88fc-933c0064c2a3 successfully
+Msg: The statement is executed successfully.
+bdaa6f35eb76   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   7 minutes ago    Up 7 minutes    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject full_memory
+1700325016.781442
+start inject network_partition
+1700325076.810778
+Recover 9c87cc8e-aa74-4d74-9a11-0a3c926042c3 successfully
+Recover ecfabecc-5b7e-43d5-a6eb-3327d0457bab successfully
+Recover 6b2fefd2-f41f-461d-be16-c0a6cf2d0b25 successfully
+Recover 718ff884-cd11-4eb9-88d6-fc5b1ca2d894 successfully
+Recover c15e8d1c-39c7-494d-b7e8-122e80dd4456 successfully
+Recover bec5de27-1376-4ed8-a85e-02be4d497517 successfully
+Recover 0f9d4961-18df-4d51-a0c0-59331c436a37 successfully
+Recover 4cbe4191-74b8-4f56-8d17-a0c3e3ef1798 successfully
+Recover 7c231c05-3b6b-4909-8ff6-8b484849afd7 successfully
+Recover 15e595fb-c900-4e4e-aeeb-070310d3678f successfully
+Msg: The statement is executed successfully.
+bdaa6f35eb76   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   9 minutes ago    Up 9 minutes    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject network_partition
+1700325098.13313
+start inject network_bandwidth2
+1700325158.172989
+Recover eba23503-3d36-4a24-99fe-855ed07051ce successfully
+Msg: The statement is executed successfully.
+bdaa6f35eb76   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   10 minutes ago   Up 10 minutes   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject network_bandwidth2
+1700325180.070508
+start inject full_memory
+1700325240.097329
+17179869184
+12036645847
+5143223337
+Recover cab5f363-c938-4ba7-9ca0-fc12a6eaa6ac successfully
+Msg: The statement is executed successfully.
+bdaa6f35eb76   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   11 minutes ago   Up 11 minutes   0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject full_memory
+1700325261.429256
+start inject full_memory
+1700325321.481837
+17179869184
+11918534246
+5261334938
+OCI runtime exec failed: exec failed: unable to start container process: error writing config to pipe: write init-p: broken pipe: unknown
+OCI runtime exec failed: exec failed: cannot exec in a stopped container: unknown
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+bdaa6f35eb76   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   13 minutes ago   Exited (137) 19 seconds ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject full_memory
+1700325361.415359
+start inject network_bandwidth2
+1700325421.455716
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+bdaa6f35eb76   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   14 minutes ago   Exited (137) About a minute ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject network_bandwidth2
+1700325442.846135
+start inject network_partition
+1700325502.885989
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+bdaa6f35eb76   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   16 minutes ago   Exited (137) 2 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject network_partition
+1700325520.597921
+start inject full_memory
+1700325580.637235
+17179869184
+0
+17179869184
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+bdaa6f35eb76   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   17 minutes ago   Exited (137) 4 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject full_memory
+1700325600.646776
+start inject query
+1700325739.145311
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+bdaa6f35eb76   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   20 minutes ago   Exited (137) 7 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject query
+1700325762.523258
+start inject network_bandwidth2
+1700325822.560097
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+bdaa6f35eb76   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   21 minutes ago   Exited (137) 8 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject network_bandwidth2
+1700325843.979913
+start inject query
+1700325904.013325
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+bdaa6f35eb76   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   22 minutes ago   Exited (137) 9 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject query
+1700325927.310618
+start inject io2
+1700325987.348024
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+bdaa6f35eb76   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   24 minutes ago   Exited (137) 11 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject io2
+1700326010.705104
+start inject query
+1700326148.12788
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+bdaa6f35eb76   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   26 minutes ago   Exited (137) 13 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject query
+1700326163.553964
+start inject flush
+1700326223.601839
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+bdaa6f35eb76   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   28 minutes ago   Exited (137) 15 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject flush
+1700326243.794709
+start inject shutdown
+1700326303.830763
+iotdb3
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+e8377b031d49ebacc3ca38915282d3e245320a41a96df95b313ada89bce40302
+end inject shutdown
+1700326328.565705
+start inject export
+1700326388.609828
+Msg: 301: 301: [TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=10, internalEndPoint=TEndPoint(ip:172.20.0.14, port:10730)}, exception: No route to host)]
+e8377b031d49   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   2 minutes ago    Up 2 minutes                      0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject export
+1700326491.945776
+start inject network_partition
+1700326551.983086
+Recover 43216af4-7fe3-4a15-a214-0eddada37109 successfully
+Recover e4d30d01-0958-46c4-9dc9-ba97c6113ed7 successfully
+Recover 27e28976-ddc1-455c-a95d-2f58cda490c9 successfully
+Recover c3fee210-0eaf-4b27-84e6-6fd30071bff8 successfully
+Recover da73b68c-92b7-47fb-8061-6993041cc37e successfully
+Recover 55fa5989-4307-4b4b-b3ab-00256514a77e successfully
+Recover 738f6e4a-32b1-41f6-b0ee-672b6cc1af26 successfully
+Recover 855b6bf0-905b-4c0c-a817-71e00b4bdd9e successfully
+Msg: 301: 301: [TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=10, internalEndPoint=TEndPoint(ip:172.20.0.14, port:10730)}, exception: No route to host)]
+e8377b031d49   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   4 minutes ago    Up 4 minutes                 0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject network_partition
+1700326593.316365
+start inject compaction
+1700326653.353528
+Msg: 301: 301: [TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=10, internalEndPoint=TEndPoint(ip:172.20.0.14, port:10730)}, exception: No route to host)]
+Msg: 301: 301: [TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=10, internalEndPoint=TEndPoint(ip:172.20.0.14, port:10730)}, exception: No route to host)]
+e8377b031d49   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   6 minutes ago    Up 6 minutes                 0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700326710.055493
+start inject compaction
+1700326770.094307
+Msg: 301: 301: [TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=10, internalEndPoint=TEndPoint(ip:172.20.0.14, port:10730)}, exception: No route to host)]
+Msg: 301: 301: [TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=10, internalEndPoint=TEndPoint(ip:172.20.0.14, port:10730)}, exception: No route to host)]
+e8377b031d49   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   8 minutes ago    Up 8 minutes                 0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700326820.778401
+start inject flush
+1700326880.835171
+Msg: 301: 301: [TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=7, internalEndPoint=TEndPoint(ip:172.20.0.11, port:10730)}, exception: No route to host), TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=10, internalEndPoint=TEndPoint(ip:172.20.0.14, port:10730)}, exception: No route to host)]
+Msg: 301: 301: [TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=7, internalEndPoint=TEndPoint(ip:172.20.0.11, port:10730)}, exception: No route to host), TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=10, internalEndPoint=TEndPoint(ip:172.20.0.14, port:10730)}, exception: No route to host)]
+e8377b031d49   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   10 minutes ago   Up 10 minutes                0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject flush
+1700326962.995804
+start inject network_partition
+1700327023.059512
+Recover c0aa5bfc-0102-4eb9-98a7-9c678757c502 successfully
+Recover 2c51613f-bee2-42e7-9499-2a2bdae5baa5 successfully
+Recover 540b0573-48b8-40bf-80ba-f33cf90eb485 successfully
+Recover dc7aebdc-bbe0-40f4-939f-f038dab05ca9 successfully
+Recover a0dad473-e41b-4e75-b569-3517d20e57da successfully
+Recover 9b2e5dd1-a02c-4ab6-8fe7-40885f4cd2a9 successfully
+Recover a625a69e-dedb-4866-9cb8-ab7768eca44f successfully
+Recover 631f8b3e-a5d6-43bd-9b3a-2aeff1ae3a8c successfully
+Recover 549c6587-d4e0-4638-a0c5-5248ff4427d6 successfully
+Recover 507b178b-305c-4a6c-b25a-4858dcbf4846 successfully
+Msg: 301: 301: [TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=7, internalEndPoint=TEndPoint(ip:172.20.0.11, port:10730)}, exception: No route to host), TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=10, internalEndPoint=TEndPoint(ip:172.20.0.14, port:10730)}, exception: No route to host)]
+e8377b031d49   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   12 minutes ago   Up 12 minutes                 0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject network_partition
+1700327067.314488
+start inject export
+1700327127.345321
+Msg: 301: 301: [TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=7, internalEndPoint=TEndPoint(ip:172.20.0.11, port:10730)}, exception: No route to host), TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=10, internalEndPoint=TEndPoint(ip:172.20.0.14, port:10730)}, exception: No route to host)]
+e8377b031d49   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   13 minutes ago   Up 13 minutes                 0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject export
+1700327162.835582
+start inject full_memory
+1700327222.87043
+17179869184
+14474039788
+2705829396
+Recover 7580d1ea-8fe4-483c-98b0-786081027045 successfully
+Msg: 301: 301: [TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=7, internalEndPoint=TEndPoint(ip:172.20.0.11, port:10730)}, exception: No route to host), TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=10, internalEndPoint=TEndPoint(ip:172.20.0.14, port:10730)}, exception: No route to host)]
+e8377b031d49   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   15 minutes ago   Up 15 minutes                 0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject full_memory
+1700327260.846099
+start inject full_cpu
+1700327320.911835
+Recover d7158dae-dfe1-47f9-a56b-c0991a9dced2 successfully
+Msg: 301: 301: [TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=7, internalEndPoint=TEndPoint(ip:172.20.0.11, port:10730)}, exception: No route to host), TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=10, internalEndPoint=TEndPoint(ip:172.20.0.14, port:10730)}, exception: No route to host)]
+e8377b031d49   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   17 minutes ago   Up 17 minutes                 0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject full_cpu
+1700327356.405375
+start inject shutdown
+1700327416.441877
+iotdb3
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+2c5835b295913ea652fd3d62ce7f07d2817aa7d54a44808c97ff7990db133f08
+end inject shutdown
+1700327440.71059
+start inject compaction
+1700327500.744894
+Msg: 301: 301: [TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=7, internalEndPoint=TEndPoint(ip:172.20.0.11, port:10730)}, exception: No route to host), TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=10, internalEndPoint=TEndPoint(ip:172.20.0.14, port:10730)}, exception: No route to host)]
+Msg: 301: 301: [TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=7, internalEndPoint=TEndPoint(ip:172.20.0.11, port:10730)}, exception: No route to host), TSStatus(code:301, message:Failed to LOAD_CONFIGURATION on DataNode: {id=10, internalEndPoint=TEndPoint(ip:172.20.0.14, port:10730)}, exception: No route to host)]
+2c5835b29591   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   About a minute ago   Up About a minute             0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700327554.40931
+start inject shutdown
+1700327614.445248
+iotdb3
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed05207b11bda6c1b35d3cc523464381ba181f8ba5b21607906ddd
+end inject shutdown
+1700327647.848899
+start inject network_bandwidth2
+1700327707.883341
+Recover 434dde9b-72b2-48ba-8294-a2e62e0fa081 successfully
+Msg: Fail to reconnect to server when executing LOAD CONFIGURATION. please check server status
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   3 minutes ago       Exited (137) 2 minutes ago                                                                                                                                                                                                                                                                                                                                          iotdb3
+end inject network_bandwidth2
+1700327875.344184
+start inject compaction
+1700327935.374482
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   5 minutes ago       Exited (137) 3 minutes ago                                                                                                                                                                                                                                                                                                                                          iotdb3
+end inject compaction
+1700327960.259029
+start inject network_bandwidth2
+1700328097.532229
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   7 minutes ago       Exited (137) 6 minutes ago                                                                                                                                                                                                                                                                                                                                          iotdb3
+end inject network_bandwidth2
+1700328114.773152
+start inject export
+1700328174.80664
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   9 minutes ago       Exited (137) 7 minutes ago                                                                                                                                                                                                                                                                                                                                          iotdb3
+end inject export
+1700328193.855352
+start inject io2
+1700328253.88849
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   10 minutes ago      Exited (137) 8 minutes ago                                                                                                                                                                                                                                                                                                                                          iotdb3
+end inject io2
+1700328269.063725
+start inject io2
+1700328329.097062
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   11 minutes ago      Exited (137) 10 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject io2
+1700328350.20877
+start inject export
+1700328491.474211
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   14 minutes ago      Exited (137) 12 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject export
+1700328512.709955
+start inject full_memory
+1700328572.742256
+17179869184
+0
+17179869184
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   15 minutes ago      Exited (137) 14 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject full_memory
+1700328590.674902
+start inject full_memory
+1700328650.709683
+17179869184
+0
+17179869184
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   17 minutes ago      Exited (137) 15 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject full_memory
+1700328667.662611
+start inject compaction
+1700328806.997123
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   19 minutes ago      Exited (137) 18 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject compaction
+1700328827.855399
+start inject network_bandwidth2
+1700328887.893442
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   21 minutes ago      Exited (137) 19 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject network_bandwidth2
+1700328909.073076
+start inject network_partition
+1700328969.104047
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   22 minutes ago      Exited (137) 20 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject network_partition
+1700328988.695482
+start inject query
+1700329129.036508
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   27 minutes ago      Exited (137) 25 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject query
+1700329279.238581
+start inject network_partition
+1700329339.271345
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   28 minutes ago   Exited (137) 27 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject network_partition
+1700329358.026275
+start inject query
+1700329613.643693
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   33 minutes ago   Exited (137) 31 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject query
+1700329636.808003
+start inject network_bandwidth2
+1700329696.840706
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   34 minutes ago   Exited (137) 32 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject network_bandwidth2
+1700329710.599376
+start inject network_partition
+1700329770.66324
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   35 minutes ago   Exited (137) 34 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject network_partition
+1700329789.229581
+start inject network_bandwidth2
+1700329849.262713
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   37 minutes ago   Exited (137) 35 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject network_bandwidth2
+1700329867.699559
+start inject full_cpu
+1700329927.774739
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   38 minutes ago   Exited (137) 36 minutes ago                                                                                                                                                                                                                                                                                                                                         iotdb3
+end inject full_cpu
+1700329947.778754
+start inject full_cpu
+1700330007.811853
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   39 minutes ago   Exited (137) 38 minutes ago                                                                                                                                                                                                                                                                                                                                            iotdb3
+end inject full_cpu
+1700330031.891352
+start inject network_partition
+1700330091.922823
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   41 minutes ago   Exited (137) 39 minutes ago                                                                                                                                                                                                                                                                                                                                            iotdb3
+end inject network_partition
+1700330113.493664
+start inject full_cpu
+1700330173.532608
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   42 minutes ago   Exited (137) 40 minutes ago                                                                                                                                                                                                                                                                                                                                            iotdb3
+end inject full_cpu
+1700330191.108953
+start inject compaction
+1700330251.133206
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   43 minutes ago   Exited (137) 42 minutes ago                                                                                                                                                                                                                                                                                                                                            iotdb3
+end inject compaction
+1700330275.077973
+start inject io2
+1700330335.109744
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   45 minutes ago   Exited (137) 43 minutes ago                                                                                                                                                                                                                                                                                                                                            iotdb3
+end inject io2
+1700330352.648265
+start inject full_cpu
+1700330412.68352
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   46 minutes ago   Exited (137) 44 minutes ago                                                                                                                                                                                                                                                                                                                                            iotdb3
+end inject full_cpu
+1700330434.821781
+start inject network_partition
+1700330494.853866
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   47 minutes ago   Exited (137) 46 minutes ago                                                                                                                                                                                                                                                                                                                                            iotdb3
+end inject network_partition
+1700330516.303344
+start inject full_cpu
+1700330576.336656
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   49 minutes ago   Exited (137) 47 minutes ago                                                                                                                                                                                                                                                                                                                                            iotdb3
+end inject full_cpu
+1700330594.901606
+start inject export
+1700330654.926663
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   50 minutes ago   Exited (137) 48 minutes ago                                                                                                                                                                                                                                                                                                                                            iotdb3
+end inject export
+1700330673.238101
+start inject full_memory
+1700330733.268506
+17179869184
+0
+17179869184
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   51 minutes ago   Exited (137) 50 minutes ago                                                                                                                                                                                                                                                                                                                                            iotdb3
+end inject full_memory
+1700330749.682072
+start inject query
+1700330809.712245
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   55 minutes ago   Exited (137) 53 minutes ago                                                                                                                                                                                                                                                                                                                                            iotdb3
+end inject query
+1700330950.390904
+start inject full_cpu
+1700331010.423365
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   56 minutes ago   Exited (137) 54 minutes ago                                                                                                                                                                                                                                                                                                                                            iotdb3
+end inject full_cpu
+1700331023.473784
+start inject full_cpu
+1700331083.50568
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   57 minutes ago   Exited (137) 56 minutes ago                                                                                                                                                                                                                                                                                                                                            iotdb3
+end inject full_cpu
+1700331104.779429
+start inject io2
+1700331164.814399
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   58 minutes ago   Exited (137) 57 minutes ago                                                                                                                                                                                                                                                                                                                                            iotdb3
+end inject io2
+1700331184.847052
+start inject network_bandwidth2
+1700331244.881368
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+4a5f881279ed   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   About an hour ago   Exited (137) 58 minutes ago                                                                                                                                                                                                                                                                                                                                            iotdb3
+end inject network_bandwidth2
+1700331261.00658
+start inject shutdown
+1700331321.046607
+iotdb3
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109cfb41d3bbf75d234173140b6478b1f7851b44f19b1ff9aef0b3a
+end inject shutdown
+1700331357.81625
+start inject full_memory
+1700331417.843253
+17179869184
+612997530
+16566871654
+Recover d50bdbc2-7c9f-4b14-9fcc-c4de1c1b3bb5 successfully
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   About a minute ago   Up About a minute                0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject full_memory
+1700331435.794672
+start inject network_partition
+1700331569.373693
+Recover 395da8b5-d13b-4695-b9e5-d1c2f4c6efe3 successfully
+Recover c07a29ed-6f30-4fc5-a01c-2f638a675660 successfully
+Recover dd3f6ff1-c1af-4c79-9ba4-8af01a846528 successfully
+Recover 380baac9-ad03-4c18-8775-7adf1b3bd682 successfully
+Recover 549db435-0328-4cc8-808c-e3b565e337a0 successfully
+Recover a58d234f-214b-4b7b-91a2-5fcdc2c9d688 successfully
+Recover fed4d12a-a316-44e2-b32a-503ce72d45dd successfully
+Recover a025a8fa-116b-48af-bf89-935f6ef8af29 successfully
+Recover 5996ea8f-9f3c-40e1-a212-68b0d4443f31 successfully
+Recover 79f0cb2b-9ac4-4050-be2f-1078fb9112ea successfully
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   3 minutes ago   Up 3 minutes                     0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject network_partition
+1700331590.283368
+start inject full_memory
+1700331650.3136
+17179869184
+823761306
+16356107878
+Recover 4cb9a85e-2e81-4d0e-824e-f54acafe4333 successfully
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   5 minutes ago   Up 5 minutes                     0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject full_memory
+1700331672.650005
+start inject full_cpu
+1700331732.687378
+Recover 2aed12da-3f3d-460c-b439-3794bbdd93d7 successfully
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   6 minutes ago   Up 6 minutes                     0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject full_cpu
+1700331747.3732
+start inject query
+1700331807.405837
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   7 minutes ago   Up 7 minutes                     0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject query
+1700331821.854441
+start inject export
+1700331881.888015
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   9 minutes ago   Up 9 minutes                     0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject export
+1700331902.114372
+start inject network_bandwidth2
+1700331962.145585
+Recover 1f9b5491-0f6c-43cc-b7ad-dd863c4a65f1 successfully
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   10 minutes ago   Up 10 minutes                    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject network_bandwidth2
+1700331977.734785
+start inject export
+1700332037.764948
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   11 minutes ago   Up 11 minutes                    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject export
+1700332053.065415
+start inject full_memory
+1700332113.099682
+17179869184
+789053440
+16390815744
+Recover 5f847601-df99-4dcb-862a-ee1573a9b13c successfully
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   12 minutes ago   Up 12 minutes                    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject full_memory
+1700332129.474725
+start inject query
+1700332189.499716
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   14 minutes ago   Up 14 minutes                    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject query
+1700332207.136235
+start inject full_cpu
+1700332267.167414
+Recover ef23386b-288a-4c65-919e-c4e325ac7183 successfully
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   15 minutes ago   Up 15 minutes                 0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject full_cpu
+1700332287.975058
+start inject network_partition
+1700332348.004337
+Recover dd7ec776-0d7d-49b5-aa02-6f2dfd8df87b successfully
+Recover 3a3ef23f-5378-43c5-a45a-3bba9139a309 successfully
+Recover 7551d8a9-2f8e-4a6a-9570-36b30390baba successfully
+Recover 2fe92300-1875-420d-8f80-03748ed801ee successfully
+Recover 9d036e19-2b59-4c28-9db3-061f0f16651a successfully
+Recover c5f11003-1bf9-4a0b-950e-517825d43c9b successfully
+Recover 1f951d86-9abe-48a1-836e-5f8ac0ae99a7 successfully
+Recover 5e34665b-96ef-472c-9c21-f3b63896947e successfully
+Recover 553751c5-6940-414f-aa8b-d606073f4e03 successfully
+Recover 544439e0-9198-4e4a-93f1-44d412051240 successfully
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   16 minutes ago   Up 16 minutes                 0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject network_partition
+1700332371.103381
+start inject full_memory
+1700332431.138005
+17179869184
+739560653
+16440308531
+Recover 3e11a1a7-61ff-40e0-a128-7ba376f4ef2c successfully
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   18 minutes ago   Up 18 minutes                 0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject full_memory
+1700332460.86225
+start inject io2
+1700332597.031411
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   20 minutes ago   Up 20 minutes                 0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject io2
+1700332613.861836
+start inject full_cpu
+1700332673.895229
+Recover 4819adeb-1cfd-41ac-82d0-cd53423f24a6 successfully
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   22 minutes ago   Up 22 minutes                 0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject full_cpu
+1700332695.792938
+start inject network_bandwidth2
+1700332755.828166
+Recover 64d193ed-9687-4ed7-a02c-9c71a1154357 successfully
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   23 minutes ago   Up 23 minutes                    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject network_bandwidth2
+1700332770.845424
+start inject flush
+1700332830.877921
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   24 minutes ago   Up 24 minutes                    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject flush
+1700332852.226483
+start inject flush
+1700332912.26321
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   26 minutes ago   Up 26 minutes                    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject flush
+1700332929.530963
+start inject full_cpu
+1700332989.565407
+Recover f5c8bdf1-fd5a-4871-88d4-f9b76cd4b46b successfully
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   27 minutes ago   Up 27 minutes                    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject full_cpu
+1700333011.77129
+start inject compaction
+1700333071.813296
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   28 minutes ago   Up 28 minutes                    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700333089.712449
+start inject network_bandwidth2
+1700333149.748815
+Recover f497dc0c-d2e4-423c-a357-f2b8ce519224 successfully
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   30 minutes ago   Up 30 minutes                    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject network_bandwidth2
+1700333167.494399
+start inject network_bandwidth2
+1700333227.533618
+Recover 9f024f9a-2d45-4142-925a-3c8204a76bee successfully
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   31 minutes ago   Up 31 minutes                    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject network_bandwidth2
+1700333247.318065
+start inject compaction
+1700333307.351992
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   32 minutes ago   Up 32 minutes                    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700333327.829518
+start inject export
+1700333387.854071
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   34 minutes ago   Up 34 minutes                    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject export
+1700333405.022848
+start inject io2
+1700333538.939484
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   36 minutes ago   Up 36 minutes                    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject io2
+1700333553.554698
+start inject flush
+1700333613.585584
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   37 minutes ago   Up 37 minutes                    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject flush
+1700333634.072587
+start inject io2
+1700333694.103012
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   39 minutes ago   Up 39 minutes                    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject io2
+1700333711.804947
+start inject full_memory
+1700333771.838726
+17179869184
+841587098
+16338282086
+Recover f061271e-64c8-44d6-879d-b5976db9b046 successfully
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+82d7556a0109   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   40 minutes ago   Up 40 minutes                    0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject full_memory
+1700333795.652164
+start inject shutdown
+1700333855.683131
+iotdb3
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+703c65f14e84123e4b9abfa6d56cbca6ed86e653472e89f8de619d3eb3a6eb83
+end inject shutdown
+1700333896.777292
+start inject io2
+1700333956.817795
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+703c65f14e84   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   About a minute ago   Up About a minute                0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject io2
+1700333971.537102
+start inject network_partition
+1700334031.561163
+Recover 1bfff978-29d4-4c51-badc-72f109e71def successfully
+Recover b07f6c41-8751-4089-b981-e2e93905e739 successfully
+Recover 31550380-7fe2-4cfe-9b96-2f70e02d0263 successfully
+Recover 636c673d-5396-40cc-9417-b5c0086ca0c7 successfully
+Recover 5b5844e1-78d9-4272-bc34-597654ee77fe successfully
+Recover c4442d98-f2a4-42f3-acb8-630d795f85ee successfully
+Recover 80338230-72a7-4b0d-a7f9-e544d30fab61 successfully
+Recover f045a13c-3064-4945-844e-7bbc70ec1552 successfully
+Recover b8ecdf59-386c-44e5-ae8f-139991bb503f successfully
+Recover 4ac2b2e8-e4de-496d-8673-b14f68fe1a63 successfully
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+703c65f14e84   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   2 minutes ago   Up 2 minutes                     0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject network_partition
+1700334050.769013
+start inject compaction
+1700334189.000531
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+ErrorCan't execute sql becauseConnection Error, please check whether the network is available or the server has started.
+703c65f14e84   cluster-iotdb:1.2.2   "/bin/sh -c '/iotdb/…"   5 minutes ago   Up 5 minutes                     0.0.0.0:6670->6667/tcp, :::6670->6667/tcp, 0.0.0.0:10713->10710/tcp, :::10713->10710/tcp, 0.0.0.0:10723->10720/tcp, :::10723->10720/tcp, 0.0.0.0:10733->10730/tcp, :::10733->10730/tcp, 0.0.0.0:10743->10740/tcp, :::10743->10740/tcp, 0.0.0.0:10753->10750/tcp, :::10753->10750/tcp, 0.0.0.0:10763->10760/tcp, :::10763->10760/tcp   iotdb3
+end inject compaction
+1700334210.037569
