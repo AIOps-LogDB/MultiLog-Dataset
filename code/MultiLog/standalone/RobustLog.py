@@ -87,7 +87,7 @@ def train_and_test_time(dataset, CASE, node_list, time_window_size):
         # Config Parameters
 
         options = dict()
-        options['data_dir'] = '/data/zlz/LogDBAD/datasets/'
+        options['data_dir'] = 'datasets/'
         options['sample'] = "session_window"
         options['window_size'] = 100
 
@@ -213,7 +213,7 @@ def train_and_test_time_single_node(dataset, CASE, NODE, time_window_size):
     # Config Parameters
 
     options = dict()
-    options['data_dir'] = '/data/zlz/LogDBAD/datasets/'
+    options['data_dir'] = 'datasets/'
     options['sample'] = "session_window"
     options['window_size'] = 100
 
