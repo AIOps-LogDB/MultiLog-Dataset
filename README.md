@@ -6,7 +6,12 @@ Multivariate Log-based Anomaly Detection for Distributed Database
 
 ## Overview
 
-The dataset download link: (the link will be made publicly available after being accepted, now we provide some sample dataset files)
+The dataset download link:
+
+- Single2Single: https://zenodo.org/records/11496301/files/Single2Single.tar.gz
+- Single2Multi: https://zenodo.org/records/11496255/files/Single2Multi.tar.gz
+- Multi2Single: https://zenodo.org/records/11483841/files/Multi2Single.tar.gz
+- Multi2Multi: https://zenodo.org/records/11468477/files/Multi2Multi.tar.gz
 
 This dataset is mainly designed for cluster anomaly detection:
 
